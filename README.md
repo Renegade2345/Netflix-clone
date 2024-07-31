@@ -1,2 +1,2 @@
 # Netflix-clone
-A responsive beginner netflix clone created via HTML and CSS
+A responsive beginner level netflix clone created via HTML and CSS
